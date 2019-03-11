@@ -2,7 +2,7 @@
 ---------------------
 ##	Introduction 
 
-***The exercise text contents of this repository was collected from GitHub account of  [zhiwehu ]  [darkprinx ](https://github.com/zhiwehu/Python-programming-exercises). I collected it to practice and solve all the listed problems with python. Even after these collected problems are all set up, I will try to add more problems in near future. If you are a very beginner with python then I hope this 100+ exercise will help you a lot to get your hands free with python.***
+***The exercise text contents of this repository was collected from GitHub account of   [darkprinx ]  [zhiwehu ](https://github.com/zhiwehu/Python-programming-exercises). I collected it to practice and solve all the listed problems with python. Even after these collected problems are all set up, I will try to add more problems in near future. If you are a very beginner with python then I hope this 100+ exercise will help you a lot to get your hands free with python.***
 
 ***One will find the given problems very simple and easy to understand. A beginner can try 3-5 problems a day which will take a little time to solve but definitely will learn a couple of new stuff (no matter how lazy you are :P ). And after regular practice of only a month, one can find himself solved more than 100++ problems which are obviously not a deniable achievement.***
 
